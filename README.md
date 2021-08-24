@@ -4,7 +4,7 @@ On-chain generated anime NFTs
 
 ![](https://i.ibb.co/MsQP6WB/Onii-Chain.png)
 
-## Deployments
+## Addresses
 
 Onii'Chain is deployed on Ethereum and verified on Etherscan :
 
